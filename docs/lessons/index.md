@@ -8,3 +8,4 @@ title: "수업 기록"
 - [샘플 · 카페에서 주문하기]({{ '/lessons/sample-cafe.html' | relative_url }})
 - [비교급]({{ '/lessons/2026-10-26-comparatives.html' | relative_url }})
 - [utb_A2_B2]({{ '/lessons/utb_A2_B2.html' | relative_url }})
+- [영어해석]({{ '/lessons/utb_30e.html' | relative_url }})
