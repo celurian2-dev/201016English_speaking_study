@@ -9,4 +9,4 @@ title: "수업 기록"
 - [비교급]({{ '/lessons/2026-10-26-comparatives.html' | relative_url }})
 - [utb_A2_B2]({{ '/lessons/utb_A2_B2.html' | relative_url }})
 - [영어해석30 A1-B2]({{ '/lessons/utb_30e.html' | relative_url }})
-- [영어해석25 B1-B2]({{ '/lessons/English_utb_wecand.html' | relative_url }})
+- [영어해석25 B1-B2]({{ '/lessons/English_utb_Wecand.html' | relative_url }})
