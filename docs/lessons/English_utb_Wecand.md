@@ -47,7 +47,9 @@
  
 **A** 진짜 영어 표현, 자연스러운 표현, 실제 사람들이 매일 쓰는 영어로요. 그러니 함께해요. 어디 가지 마세요. 시작해요!
  
+<br>
 <details><summary>👀 <b>영어 정답 보기</b></summary>
+ <br>
 **A & D** Hello. Welcome back everyone.
  
 **A & D** We are so happy you are here today.
